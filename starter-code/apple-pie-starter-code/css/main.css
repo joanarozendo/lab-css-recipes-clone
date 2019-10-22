@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+#header-image {
+  width: 1000px;
+  height: 500px;
+  background-image: url("../images/apple-pie.jpg");
+  background-size: cover;
+  font-size: 3em;
+  font-weight: 50;
+  text-align: center;
+  padding: 125px;
+  color: white;
+}
